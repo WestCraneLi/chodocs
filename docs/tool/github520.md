@@ -39,3 +39,13 @@ URL: https://raw.hellogithub.com/hosts
 ![](https://img-blog.csdnimg.cn/fdf80e88ca2e409b8d4484a6d3cf0d6a.png)
 
 至此，我们就可以正常访问 GitHub 了，开启你的开源之旅吧。
+
+## 使用Watt Toolkit
+
+**Watt Toolkit** 下载直接加速`GitHub`即可，相对来说最方便，最简单的一种
+
+下载地址：[Watt Toolkit](https://steampp.net/) 根据自己的电脑系统类型下载对应的类型
+
+下载完成的页面展示，点击`GitHub`即可，本质上是修改了`Host`文件
+
+[![pps3MHU.png](https://s1.ax1x.com/2023/03/27/pps3MHU.png)](https://imgse.com/i/pps3MHU)
